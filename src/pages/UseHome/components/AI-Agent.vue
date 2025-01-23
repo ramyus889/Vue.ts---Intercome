@@ -1,8 +1,8 @@
 <script setup lang="ts"></script>
 <template>
-  <div class="bg-[#17100e] text-white w-full">
+  <div class="bg-[#17100e] w-full">
     <div class="min-[1900px]:mx-[18.4%] min-[1500px]:mx-[11%] mx-[5%]">
-      <div class="text-[clamp(1.9rem,_3.5vw,_5.25rem)] text-center pt-[160px] pb-[80px]">
+      <div class="text-[clamp(1.9rem,_3.5vw,_5.25rem)] text-white text-center pt-[160px] pb-[80px]">
         The first human-quality AI agent
       </div>
       <div class="bg-white w-full rounded-[16px] p-[32px] flex gap-5">
